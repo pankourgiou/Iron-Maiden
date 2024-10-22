@@ -1,1 +1,1 @@
-It's a simple Hello world program written in python programming language.
+It's a simple comments file
